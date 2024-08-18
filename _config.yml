@@ -21,7 +21,7 @@ repository               : "LienLe25/LienLe25.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Lê Liên"
   pronouns         : # example: "she/her"  
   bio              : "Pretty girl"
